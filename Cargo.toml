@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_zlib"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS zlib component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_zlib"
+path = "src/lib.rs"
