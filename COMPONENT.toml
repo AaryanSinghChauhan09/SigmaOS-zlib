@@ -3,7 +3,7 @@ name = "SigmaOS-zlib"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "zlib component"
+description = "SigmaOS SigmaOS-zlib component"
 upstream = []
 
 [contract]
